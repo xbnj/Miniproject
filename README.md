@@ -31,15 +31,16 @@ The methodology for designing an RF to DC converter circuit involves several key
 
 # BLOCK DIAGRAM
 
-![image](https://github.com/xbnj/Miniproject/assets/42709556/59fd0b8a-95fb-4e08-a397-a13bcdefea1c)
+![image](https://github.com/xbnj/Miniproject/assets/42709556/757af7b8-d901-47f0-9418-9d2263c1e103)
 
 # TIME SCHEDULE   
 
 ![image](https://github.com/xbnj/Miniproject/assets/42709556/8be77914-be53-42da-adfb-83f34db280fe)
 
-# ESTIMATED BUDGET 
+# ESTIMATED BUDGET  (HARDWARE)
 
-![image](https://github.com/xbnj/Miniproject/assets/42709556/4ab0487e-824b-49eb-8667-fd5d95a39cbe)
+
+![image](https://github.com/xbnj/Miniproject/assets/42709556/ae5a77c0-4707-41dc-9c42-18615aa06332)
 
 # REFERENCES 
 
